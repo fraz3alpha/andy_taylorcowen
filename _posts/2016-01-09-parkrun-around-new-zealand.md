@@ -36,8 +36,10 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 
 ![Scoping out the route in the park](/assets/img/parkrun-around-new-zealand-cornwall-park-selfie.jpg)
+_Scoping out the route in the park_
 
 ![A nice place to start my tour :)](/assets/img/parkrun-around-new-zealand-cornwall-park-map.png)
+_A nice place to start my tour :)_
 
 
 ## NZ parkrun #2 1/12/2015: Western Springs
@@ -46,24 +48,30 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 
 ![My best guess as to where I should start](/assets/img/parkrun-around-new-zealand-western-springs-selfie.jpg)
+_My best guess as to where I should start_
 
 ![Oops, looks like I took a shortcut!](/assets/img/parkrun-around-new-zealand-western-springs-map.png)
+_Oops, looks like I took a shortcut!_
 
 ## NZ parkrun #3 2/12/2015: Millwater
 
   Millwater, just north of Auckland, was the first of the out-and-back parkruns I would run, and this one runs along a cycle/walkway along the banks of a river estuary. The concrete path was unforgiving underfoot, but it was impossible to take a wrong turn. I did some preparation before the run to work out where the turnaround point was, conveniently in a small park, so I managed to run the requisite 5k with no issues.
 
 ![The probable start line](/assets/img/parkrun-around-new-zealand-millwater-selfie.jpg)
+_The probable start line_
 
 ![Easy to follow, no chance of getting lost](/assets/img/parkrun-around-new-zealand-millwater-map.png)
+_Easy to follow, no chance of getting lost_
 
 ## NZ parkrun #4 2/12/2015: Barry Curtis Park
 
   I didn't know what to expect of Barry Curtis, from Google maps it appeared to be a desolate field on the South-East extent of Auckland, but once I was there I was pleasantly surprised - The whole parkrun course was permanently signed, indication each km point, along with the start and finish lines, meaning that although I had the whole park to myself I knew exactly where I was going :) Nice one Barry Curtis (whoever you are)!
 
 ![Full marks for ease of freedom-touristing!](/assets/img/parkrun-around-new-zealand-barry-curtis-selfie.jpg)
+_Full marks for ease of freedom-touristing!_
 
 ![A thoroughly nice run :)](/assets/img/parkrun-around-new-zealand-barry-curtis-map.png)
+_A thoroughly nice run :)_
 
 ## NZ parkrun #5 5/12/2015: Hamilton Lake
 
@@ -73,8 +81,10 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 
 ![Turns out the signage is even back to front in the Southern Hemisphere...](/assets/img/parkrun-around-new-zealand-hamilton-lake-selfie.jpg)
+_Turns out the signage is even back to front in the Southern Hemisphere..._
 
 ![A beautiful course on a beautiful morning](/assets/img/parkrun-around-new-zealand-hamilton-lake-map.png)
+_A beautiful course on a beautiful morning_
 
 ## NZ parkrun #6 9/12/2015: Kapiti Coast
 
@@ -82,6 +92,7 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 
 ![Kapiti Coast map](/assets/img/parkrun-around-new-zealand-kapiti-coast-map.png)
+_Kapiti Coast map_
 
 
 ## NZ parkrun #7 9/12/2015 : Porirua
@@ -90,10 +101,13 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 
 ![All Welcome!](/assets/img/parkrun-around-new-zealand-porirua-selfie.jpg)
+_All Welcome!_
 
 ![Another warm day in NZ](/assets/img/parkrun-around-new-zealand-porirua-selfie2.jpg)
+_Another warm day in NZ_
 
 ![A nice shady course to hide from the sun :)](/assets/img/parkrun-around-new-zealand-porirua-map.png)
+_A nice shady course to hide from the sun :)_
 
 
 ## NZ parkrun #8 9/12/2015: Lower Hutt
@@ -103,8 +117,10 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 
 ![Love parkrun :)](/assets/img/parkrun-around-new-zealand-lower-hutt-sefie.jpg)
+_Love parkrun :)_
 
 ![A potentially very windy course](/assets/img/parkrun-around-new-zealand-lower-hutt-map.png)
+_A potentially very windy course_
 
 ## NZ parkrun #9 12/12/2015: Hagley Park
 
@@ -113,6 +129,7 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 
 ![Incredibly windy down the straights](/assets/img/parkrun-around-new-zealand-hagley-park-map.png)
+_Incredibly windy down the straights_
 
 Fun Fact: As New Zealand is located at GMT+13 I was actually the 106th person to complete a parkrun that weekend :)
 
@@ -122,8 +139,10 @@ Fun Fact: As New Zealand is located at GMT+13 I was actually the 106th person to
 
 
 ![It looks nice, but there are hills hidden in there!](/assets/img/parkrun-around-new-zealand-dunedin-selfie.jpg)
+_It looks nice, but there are hills hidden in there!_
 
 ![Very confusing, very hilly!](/assets/img/parkrun-around-new-zealand-dunedin-map.png)
+_Very confusing, very hilly!_
 
 All 10 parkrun courses done, including 2 official runs, I had a great time in New Zealand - I could think of no better way to see the country :)
 
