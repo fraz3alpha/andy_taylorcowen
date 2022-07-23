@@ -35,7 +35,7 @@ The fencing and gates alas prevented my jaunt going into the tunnel, but it was 
 
 It was here that I realised the tunnel had a name - Lywood Tunnel, taking its name from the local farm and common.
 
-[!Lywood Farm and Common](lynwood-tunnel-map-lynwood-farm-and-common.png)
+[!Lywood Farm and Common](/assets/img/lynwood-tunnel-map-lynwood-farm-and-common.png)
 
 The track bed was really clear, but very muddy, so I didn't venture far, but there was a bridge not too far away - perhaps on another visit I will find out if you can get to it from the road marked on the map.
 
