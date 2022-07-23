@@ -37,7 +37,7 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 ![Scoping out the route in the park](/assets/img/parkrun-around-new-zealand-cornwall-park-selfie.jpg)
 
-![A nice place to start my tour :)](/assets/img/parkrun-around-new-zealand-cornwall-park-map.jpg)
+![A nice place to start my tour :)](/assets/img/parkrun-around-new-zealand-cornwall-park-map.png)
 
 
 ## NZ parkrun #2 1/12/2015: Western Springs
@@ -47,7 +47,7 @@ Before I headed out to NZ I did a bit of preparation, taking with me printouts o
 
 ![My best guess as to where I should start](/assets/img/parkrun-around-new-zealand-western-springs-selfie.jpg)
 
-![Oops, looks like I took a shortcut!](/assets/img/parkrun-around-new-zealand-western-springs-map.jpg)
+![Oops, looks like I took a shortcut!](/assets/img/parkrun-around-new-zealand-western-springs-map.png)
 
 ## NZ parkrun #3 2/12/2015: Millwater
 
