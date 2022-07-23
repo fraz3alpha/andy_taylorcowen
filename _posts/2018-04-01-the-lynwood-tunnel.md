@@ -21,23 +21,39 @@ We then went to checkout the Lindfield Road crossing, where we went to seek a tu
 
 We had a short wander through a wooded area and started seeing the middle of trees, rather than the bases, a sure sign of the ground steeply dropping away, and lo and behold!
 
+![First sight of the western portal of the Lywood tunnel](/assets/img/lynwood-tunnel-first-sight.jpg)
+
 We were very surprised to see the old track bed quite to clear - and with evidence of tree felling, there seems to have been work to clear up the area very recently.
 
 Partly scrambling down the slippy bank I made it to the bottom.
 
+![Lywood Tunnel, Western Portal, complete with gates](/assets/img/lynwood-tunnel-western-portal-from-trackbed.jpg)
+
 The fencing and gates alas prevented my jaunt going into the tunnel, but it was very nice to see the entrance in such good condition - the brickwork looked excellent!
+
+[!Peering east through the railing](/assets/img/lynwood-tunnel-peering-east-through.jpg)
 
 It was here that I realised the tunnel had a name - Lywood Tunnel, taking its name from the local farm and common.
 
+[!Lywood Farm and Common](lynwood-tunnel-map-lynwood-farm-and-common.png)
+
 The track bed was really clear, but very muddy, so I didn't venture far, but there was a bridge not too far away - perhaps on another visit I will find out if you can get to it from the road marked on the map.
+
+[!Looking west](/assets/img/lynwood-tunnel-western-portal-looking-west.jpg)
 
 The tunnel was also leaking. There was quite a lot of water pouring in from the roof on to the floor below. It may have been less bad than it sounded, instead having been amplified by the shape of the cavernous nature of the tunnel, but either way it was no longer watertight (assuming that it once was!).
 
 Heading back up the bank, I crossed the road and headed round the back of the houses, through a wooded area and along a clear strip shown on Google Maps which turned out to be the path of some small 3-cable electricity pylons. The trees here were incredibly regular, and judging from the diameter of the trunks could have been planted 20-30 years ago. They were pretty close together, so perhaps someone is farming them. Eventually I came upon a small hut:
 
+[!First sight of the track bed to the east of Lindfield Road](/assets/img/lynwood-tunnel-first-eastern-trackbed.jpg)
+
 It was very muddy around here. Getting down to the track bed and turning left, I saw the tunnel and headed towards it.
 
+[!Lywood Tunnel, Eastern Portal](/assets/img/lynwood-tunnel-eastern-portal-from-trackbed.jpg)
+
 Once again the brickwork was in remarkably good condition, although there was noticeably more moss and vines on and around this structure.
+
+[!Looking east towards Horsted Keynes](/assets/img/lynwood-tunnel-eastern-portal-towards-horsted-keynes.jpg)
 
 And there we go - mystery solved!
 
@@ -47,3 +63,5 @@ Perhaps next time I'm here, in the summer maybe, I'll try and walk the length of
 
 
 As as some special bonus content, here is a picture of one of the trains we saw at Horsted Keynes this afternoon:
+
+[!Horsted Keynes to Sheffield Park passenger service](/assets/img/lynwood-tunnel-horsted-keynes-station.jpg)
