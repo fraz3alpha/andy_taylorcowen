@@ -10,6 +10,7 @@ render_with_liquid: false
 
 
 ![Me on the Moeraki Boulders, Otago Coast, New Zealand](/assets/img/parkrun-around-new-zealand-moeraki-boulders.jpg)
+_Me on the Moeraki Boulders, Otago Coast, New Zealand_
 
 
 I started parkrun in November 2014 after having been enticed along to the Fellfoot parkrun by my friend Anna whilst visiting up in Kendal. It was in inauspicious start as I had no suitable shoes, nor shorts, so I borrowed some kit to run my first ever 5k. Surprisingly I managed the course in 26:19, and after that I was hooked.
@@ -17,11 +18,13 @@ I started parkrun in November 2014 after having been enticed along to the Fellfo
 A year later and I had run 36 parkruns all over the country - but mostly at Winchester, and got my PB down to 20:06 :)
 
 ![parkrun PBs](/assets/img/parkrun-around-new-zealand-pb-montage.png)
+_parkrun PBs_
 
 
 After the celebrations had died down it was time for me to head off to New Zealand for a 3 week holiday. I had the full 3 weeks to take in as much of the country as I wanted, and naturally I was keen to see where the local parkrun courses were. There are 10 courses in New Zealand, with 8 in the North Island, and 2 on the South Island:
 
 ![parkrun NZ map](/assets/img/parkrun-around-new-zealand-map.png)
+_parkrun NZ map_
 
 Coincidentally I was flying into Auckland and meeting up with a friend in Christchurch 2 weeks later, so the first 9 would guide me nicely through the country - the only outlier would be Dunedin, which I could run sometime during my final week whilst heading around the South Island.
 
