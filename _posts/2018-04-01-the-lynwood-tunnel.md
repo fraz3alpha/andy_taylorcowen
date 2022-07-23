@@ -1,6 +1,6 @@
 ---
 title: In Search of the Lynwood Tunnel
-author: Andy
+author: andy
 date: 2018-04-01 09:00 +0800
 categories: [Railways]
 tags: [bluebell-railway]
