@@ -11,6 +11,8 @@ I spent this Easter Sunday in Ardingly, and the previous night the discussion wa
 
 We hoped to clear up this mystery. :)
 
+![The OS map](/assets/img/lynwood-tunnel-map.png)
+
 The dismantled railway section runs from the old Ardingly station in the west (now an aggregates yard) to the end of a spur coming off from the Horsted Keynes junction.
 
 It turned out that the Horsted Keynes spur ends as soon as the land drops away from the raised embankment next to the road, where once stood Sheriff Mill viaduct - now long since disappeared.
