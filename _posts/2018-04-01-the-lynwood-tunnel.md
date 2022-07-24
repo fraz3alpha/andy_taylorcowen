@@ -4,7 +4,7 @@ author: andy
 date: 2018-04-01 09:00 +0800
 categories: [Railways]
 tags: [bluebell-railway]
-img_path: /assets/img/2018-04-01-the-lynwood-tunnel/
+img_path: "/assets/img/2018-04-01-the-lynwood-tunnel/"
 ---
 
 I spent this Easter Sunday in Ardingly, and the previous night the discussion was focused around the proposed extension of the Bluebell Railway to utilise the disused link from Horsted Keynes to Haywards Heath. We were studying the local OS map, and didn't see how the route would go through a set of houses on the Lindfield Road. All the aerial views suggested they were right in the way of the railway, and the OS map wasn't clear as to whether they lay in or on the cutting created for the railway - they are 1-4 Railway Cottages, and we thought there was every chances there were built in the flat bed left by the railway after it was ripped up, or perhaps on a giant spoil pile that filled in the cutting when they wanted to create the road.

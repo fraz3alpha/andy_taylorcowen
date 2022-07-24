@@ -4,7 +4,7 @@ author: andy
 date: 2015-08-23 09:00 +0800
 categories: [Cycling, Electronics]
 tags: []
-img_path: /assets/img/2015-08-23-led-disco-bike/
+img_path: "/assets/img/2015-08-23-led-disco-bike/"
 ---
 
 This year I decided to ride the Dunwich Dynamo, having done it once before in 2012. For those of you not in the know, it is a 186km ride from London Fields in Hackney, out to the Suffolk coastal town/village of Dunwich, done (mostly) overnight. It's a relaxed, friendly affair - definitely not a race, and the light-hearted nature of the event attracts a wide range of people and bikes. Included in this last category is the increasing number of people who choose to illuminate their bike in some way.

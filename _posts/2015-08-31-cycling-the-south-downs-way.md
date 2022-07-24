@@ -4,7 +4,7 @@ author: andy
 date: 2015-08-31 09:00 +0800
 categories: [Cycling]
 tags: []
-img_path: /assets/img/2015-08-31-cycling-the-south-downs-way/
+img_path: "/assets/img/2015-08-31-cycling-the-south-downs-way/"
 ---
 
 Cycling the South Downs Way: Winchester to Eastbourne

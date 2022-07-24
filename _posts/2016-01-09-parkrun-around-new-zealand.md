@@ -4,7 +4,7 @@ author: andy
 date: 2016-01-09 09:00 +0800
 categories: [parkrun]
 tags: []
-img_path: /assets/img/2016-01-09-parkrun-around-new-zealand/
+img_path: "/assets/img/2016-01-09-parkrun-around-new-zealand/"
 ---
 
 

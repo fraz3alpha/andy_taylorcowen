@@ -4,7 +4,7 @@ author: andy
 date: 2017-07-31 09:00 +0800
 categories: [Electronics]
 tags: []
-img_path: /assets/img/2017-07-31-lauras-disco-hat/
+img_path: "/assets/img/2017-07-31-lauras-disco-hat/"
 ---
 
 This past weekend Laura and I attended the wedding of Mike & Abi Bettle-Shaffer, and the guests were asked to attend in bright colours, bow-ties and hats/fascinators - there was even to be a competition for the best on in each category. Naturally bright colours + hats begged for some LEDs to be added to jazz things up! In order to save you the suspense, here is what we ended up with:
