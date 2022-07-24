@@ -61,7 +61,8 @@ _I was treated to a magnificent sunrise on the approach to Cocking. This photo d
 
 As I pulled up to the water tap at Cocking, surrounded by the full chorus that dawn brings, it was clear I wasn't going very quickly. I was intentionally saving my legs and not powering up hills as I knew I had many miles to go, so this was fine by me.
 
-![](/assets/img/south)
+![Water stop](/assets/img/south-downs-way-amberley.jpg)
+_Water stop_
 
 Many more km later I approached Amberley. After a short detour to the pub by the river to top up water supplies once more I re-joined the 'Way and faced the hill I knew I couldn't get up. Amberley Mount. And the one after it, the gratuitously placed Rackham Hill(?). Short, steep, and somewhat impossible to get up I relented and walked up as soon as came off as it was impossible to even try and get back on, and I didn't want to use all my energy up before half distance!
 
