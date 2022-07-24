@@ -7,7 +7,8 @@ tags: []
 render_with_liquid: false
 ---
 
-Cycling the South Downs Way: Winchester > Eastbourne
+Cycling the South Downs Way: Winchester to Eastbourne
+
 Towards the end of last year I set myself a target, I wanted to complete my personal 'big three' cycle rides in a calendar year, one of which I had never done before...
 
 Ride 1: May 2015, The Isle of Wight Randonee.
@@ -40,8 +41,8 @@ After getting home from work on the Friday, I loaded up with pasta and had a nap
 Heading down through Winchester I passed the usual array of late night stragglers, and once through Highcliffe it was into the pitch black darkness of the night...
 I saw no-one. With nothing but my thoughts, some occasional singing, and intent staring into the dark to plot my way I peddled, peddled and peddled some more. Up to Cheesefoot Head, down through the remnants of the Boomtown Fair, and on to the first water stop at Lomer Farm.
 
-
-The first tap, 18km in at Lomer Farm
+![The first tap, 18km in at Lomer Farm](/assets/img/south-downs-way-first-tap.jpg)
+_The first tap, 18km in at Lomer Farm_
 
 I continued all the way down to Warnford, the long slog up Old Winchester Hill, and back down the other side through the fields of sleeping cows - at least I think most of them were sleeping, it was very eerie as one occasionally stirred and gazed at me as I cycled past.
 As usual, Salt Hill was too much, and the steep rocky gully got the better of me. It started badly with the very muddy flat section which then led me to fall off into a bush as I attempted to power through it. I got halfway up the hill itself before I admitted defeat and took the easier walking option.
@@ -50,43 +51,42 @@ Up and out of QECP, and over the undulating hills to Harting Down, I passed unde
 
 Harting Down turned out to have more interest in store as I descended down a steep and particularly smooth section of hard-packed clay covered in dew, and my bike stepped out from underneath me... I came down on my right forearm and wrist and slid for a bit before coming to a stop. I lay there fore a moment or two, with pains in my arm, and hoping that nothing was seriously damaged I gingerly got up, to see my bike illuminating the entire path with all the colours of the rainbow only a few metres below me. I soldiered on.
 
-
-Dawn breaks somewhere between Harting and Cocking
+![Dawn breaks somewhere between Harting and Cocking](/assets/img/south-downs-way-dawn.jpg)
+_Dawn breaks somewhere between Harting and Cocking_
 
 With the sky gradually getting lighter I had another scare trying to avoid a large number of huge nettle bushes encroaching onto the path, and much like when I came off at Harting, my rear wheel stepped out and started to come past me on my right. Fortunately I held it, but it did mean I broadsided the nettles full on, which was unpleasant to say the least!
 
-
-I was treated to a magnificent sunrise on the approach to Cocking.
-This photo doesn't do it any justice at all, it was spectacular.
+![I was treated to a magnificent sunrise on the approach to Cocking. This photo doesn't do it any justice at all, it was spectacular](/assets/img/south-downs-way-sunrise.jpg)
+_I was treated to a magnificent sunrise on the approach to Cocking. This photo doesn't do it any justice at all, it was spectacular_
 
 As I pulled up to the water tap at Cocking, surrounded by the full chorus that dawn brings, it was clear I wasn't going very quickly. I was intentionally saving my legs and not powering up hills as I knew I had many miles to go, so this was fine by me.
 
-
+![](/assets/img/south)
 
 Many more km later I approached Amberley. After a short detour to the pub by the river to top up water supplies once more I re-joined the 'Way and faced the hill I knew I couldn't get up. Amberley Mount. And the one after it, the gratuitously placed Rackham Hill(?). Short, steep, and somewhat impossible to get up I relented and walked up as soon as came off as it was impossible to even try and get back on, and I didn't want to use all my energy up before half distance!
 
 On I plodded, and by the time I got to Chanctonbury Ring around 10am the sun was out and the day was beginning to look rather pleasant
 
-
-Looking back on Chanctonbury Ring
+![Looking back on Chanctonbury Ring](/assets/img/south-downs-way-chanctonbury-ring.jpg)
+_Looking back on Chanctonbury Ring_
 
 Having managed to miss the water tap at Washington I carried on knowing the next one was at Truleigh Hill YHA, at the top of a huge hill. Passing through Botolphs and over the river Adur, a huge hill imposes itself in ones vision. I had thought this was Truleigh Hill, but it seems to be Beeding Hill that then rolls into Truleigh Hill. From river level it rises some 160m and I was determined to beat it.
 
-
+![](/assets/img/south-downs-way-yha-map.png)
 
 The surface was relatively good up this hill and I made it all the way up, with only one brief stop sort out a gear slippage, and was greeted by yet another spectacular view
 
-
-From the top of Beeding Hill, just before Truleigh Hill
+![From the top of Beeding Hill, just before Truleigh Hill](/assets/img/south-downs-way-beeding-hill.jpg)
+_From the top of Beeding Hill, just before Truleigh Hill_
 
 When I cycle I like to do so at a generally leisurely pace so that I can appreciate the views, and this cycle was no exception. Riding 100+ miles with your head down all the time isn't a lot of fun, so the view is my reward.
 A quick pitstop for water and a loo break at the YHA and I was back on the bridleway, targetting an early lunch stop at Devils Dyke.
 
+![11:45 and the pub wasn't open, so I, like a load of other people, had to wait](/assets/img/south-downs-way-devils-dyke.jpg)
+_11:45 and the pub wasn't open, so I, like a load of other people, had to wait_
 
-11:45 and the pub wasn't open, so I, like a load of other people, had to wait
-
-
-Lunch rations, a 9oz burger and chips
+![Lunch rations, a 9oz burger and chips](/assets/img/south-downs-way-devils-dyke-pub-lunch.jpg)
+_Lunch rations, a 9oz burger and chips_
 
 I afforded myself an hour off to wait for the put to open and then get food, and by 12:45 I was back on my bike again. At this point I was going into uncharted territory. The last time I cycled any great distance on the 'Downs I was going to Brighton, so this is where I left the trail. Any hills I came across from this point on would be new to me. The profile section of the bikedowns website indicated I was in for a treat: massive hills!
 
@@ -95,15 +95,16 @@ Down to the A27, and then up and over another big hill to get to Southease where
 
 Next up was the rise up to Firle Beacon with the bulk of the height gained up Itford hill, and this was a beast!
 
-The imposing track could be seen curving up the hill from the river crossing
+![The imposing track could be seen curving up the hill from the river crossing](/assets/img/south-downs-way-itford-hill.png)
+_The imposing track could be seen curving up the hill from the river crossing_
 
 From the river I could see the initial sweep across the hill which looked doable, and I settled in for the long slog. As I approached what would be the point at which I double backed on myself I saw people right at the top and though that surely I wouldn't need to go right to the top... Alas it was true, but I was so determined on this hill and ploughed on through. I managed to make it all the way to the top of Firle Beacon some 5km from the river without stopping (apart from a couple of gates). At this point I was feeling rather pleased with myself for conquering what looked like an unfeasibly steep hill from the bottom. I was definitely helped by the grassy surface, something I would not be so lucky with in the upcoming hills...
 
 Down to Alfriston, and at sea-level once more I knew there were only two more major hills; Windover Hill and then one smaller one about half the height. Not far now.
 The signage in Alfriston was terrible. No signs at all that I could find in the village, which meant I was forced to look up the route on my phone. Over the river, and then more confusion as it seemed I should be going along the road for a short section, but the sign pointed along a boggy riverbank. Some more phone checking and I chose to backtrack a bit and take the road. It turned out the field would have been OK, but it didn't look good - probably fine for walkers, but not really for bikes.
 
-
-Windover Hill
+![Windover Hill](/assets/img/south-downs-way-windover-hill-map.png)
+_Windover Hill_
 
 Windover Hill was not nice. It was rocky and rutted, and at parts very steep. I somehow stayed on my bike, helped once again by the easiest gear my bike could offer - it had had good use this far, and would still be needed again.
 
@@ -114,17 +115,19 @@ By this point someone had marked the trail with spray painted orange arrows, whi
 
 At 7:06pm I got my first sight of the legendary end of this epic route, surely it's all downhill from here :)
 
+![Eastbourne ahoy!](/assets/img/south-downs-way-eastbourne-in-sight.jpg)
+_Eastbourn ahoy!_
 
 By this point I was beginning to think that it's be dark by the time I made it down to the pier, where I intended to formally end my route! On I pressed, and followed the signs for a little bit longer, but I began to have doubts as to where they were taking me to when I didn't do much turning left to head into Eastbourne. Eventually after a quick check on my phone I abandoned the signs and headed down to the seafront. Upon later inspection, the signs were taking walkers to the cliffs to join the route along the coast, whereas the bike route should have headed straight down sooner.
 
-
-In the end, I made my own way down :)
+![In the end, I made my own way down :)](/assets/img/south-downs-way-eastbourne-map.png)
+_In the end, I made my own way down :)_
 
 Speeding along the smooth tarmac felt wonderful. My body had been shaken and rattled from the final stony, chalky hills and rolling down the road was bliss.
 When you go to the beach, you find a spot and take a picture with the local pier right?
 
-
-Made it!
+![Made it!](/assets/img/south-downs-way-eastbourne-beach.jpg)
+_Made it!_
 
 I spent a few minutes on the beach, and having been on the move for 19 hours I was still remarkably awake.
 The final tally was:
@@ -135,7 +138,7 @@ Calories burnt: ~5000ish
 Times I nearly fell off: Many
 Time I actually fell off: Twice
 
-See the full details on Strava
+[See the full details on Strava](https://www.strava.com/activities/380357733)
 
 In the gathering gloom I had hoped that this would be the end of my adventure, but thanks to the man at the station trying to save me £5, it wasn't over yet...
 Now, had I been more awake, I would have asked more questions, but the guy at the station ticket office sold me a ticket from Eastbourne > Winchester along the south coast costing about £13, claiming via London would be a lot more expensive. He said I had just missed one train, but the next one would, via a couple of changes in Brighton and Southampton Central, get me back.
@@ -148,3 +151,5 @@ At this point I was now due in Winchester at 22:52, some 1:45 sooner than Southe
 
 Back home by 11pm, a quick shower to remove the layers of accumulated dust and evapourated sweat, and then a soak in a bath... Finished. Sleep. Zzzz.
 
+![Full route](/assets/img/south-downs-way-the-full-route.png)
+_The full route_
