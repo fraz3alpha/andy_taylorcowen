@@ -4,7 +4,6 @@ author: andy
 date: 2015-08-23 09:00 +0800
 categories: [Cycling, Electronics]
 tags: []
-render_with_liquid: false
 img_path: /assets/img/2015-08-23-led-disco-bike/
 ---
 

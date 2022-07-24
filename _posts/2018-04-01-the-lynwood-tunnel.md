@@ -4,7 +4,6 @@ author: andy
 date: 2018-04-01 09:00 +0800
 categories: [Railways]
 tags: [bluebell-railway]
-render_with_liquid: false
 img_path: /assets/img/2018-04-01-the-lynwood-tunnel/
 ---
 

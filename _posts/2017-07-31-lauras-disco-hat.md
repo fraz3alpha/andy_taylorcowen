@@ -4,7 +4,6 @@ author: andy
 date: 2017-07-31 09:00 +0800
 categories: [Electronics]
 tags: []
-render_with_liquid: false
 img_path: /assets/img/2017-07-31-lauras-disco-hat/
 ---
 

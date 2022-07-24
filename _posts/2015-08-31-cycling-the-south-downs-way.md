@@ -4,7 +4,6 @@ author: andy
 date: 2015-08-31 09:00 +0800
 categories: [Cycling]
 tags: []
-render_with_liquid: false
 img_path: /assets/img/2015-08-31-cycling-the-south-downs-way/
 ---
 
