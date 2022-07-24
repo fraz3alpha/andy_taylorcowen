@@ -38,7 +38,7 @@ I ordered them from an eBay seller in China, costing me £24. (I've had overwhel
 Next, I needed to check they were working, so I brought up a quick Arduino sample sketch from Adafruit's Neopixel library. Knowing that these LEDs are rated at 9W/m, I was wary about running them all from my computers USB port (normally only rated up to 500ma), so I changed the 'strandtest' example sketch to only display a limited number of pixels:
 
 
-[Looks good](led-disco-bike-testing.jpg)
+![Looks good](led-disco-bike-testing.jpg)
 _Looks good!_
 
 Next I had a think about how I would go about arranging these 150 LEDs around my bike to get the best coverage and also how to go about wiring them - naturally I wanted to get as many as possible onto the bike.
